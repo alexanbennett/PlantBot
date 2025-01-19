@@ -1,0 +1,7 @@
+numpy==1.21.6
+opencv-python==4.5.5.64
+RPi.GPIO==0.7.0
+picamera==1.13
+kivy==2.0.0
+Keras
+Tensorflow
